@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Using stfu is simple:
+
+![](https://github.com/cbrnrd/stfu/blob/master/stfu_img.png)
 
 ## Development
 
